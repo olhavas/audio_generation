@@ -37,3 +37,16 @@
 AudioGeneration/AudioGeneration.xcodeproj/
 
 AudioGeneration/Untitled.swift
+
+CMakeCache.txt
+
+# proj
+
+*.xcodeproj/
+*.swift
+
+
+
+#Folders
+build/
+CMakeFiles/
